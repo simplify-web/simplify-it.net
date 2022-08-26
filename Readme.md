@@ -11,4 +11,5 @@
 `git submodule add https://github.com/janraasch/hugo-scroll.git themes/hugo-scroll`
 - cp example content
 `cp -r themes/hugo-scroll/exampleSite/* .`
-- start hugo server
+- start hugo server on all interfaces
+`hugo serve -D --bind 0.0.0.0`

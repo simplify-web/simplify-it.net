@@ -1,0 +1,21 @@
+{
+  "name": "simplify-it.net",
+  "version": "0.0.1",
+  "description": "",
+  "author": "akralj",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo serve -D --bind 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplify-web/simplify-it.net.git"
+  },
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/simplify-web/simplify-it.net/issues"
+  },
+  "homepage": "https://github.com/simplify-web/simplify-it.net#readme",
+  "devDependencies": {
+  }
+}
